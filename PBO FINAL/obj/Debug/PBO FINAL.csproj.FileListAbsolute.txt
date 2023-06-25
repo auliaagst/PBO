@@ -1,0 +1,13 @@
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\bin\Debug\PBO FINAL.exe.config
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\bin\Debug\PBO FINAL.exe
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\bin\Debug\PBO FINAL.pdb
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO FINAL.csproj.AssemblyReference.cache
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO_FINAL.Form_Login.resources
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO_FINAL.Properties.Resources.resources
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO FINAL.csproj.GenerateResource.cache
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO FINAL.exe
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO FINAL.pdb
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO_FINAL.Mahasiswa1.resources
+C:\Users\Marcell\Documents\KELOMPOK 29\PBO FINAL\PBO FINAL\obj\Debug\PBO_FINAL.Admin.resources
